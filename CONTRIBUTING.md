@@ -33,7 +33,7 @@ main repo  ->  your fork  ->  your edit  ->  pull request  ->  review  ->  merge
 
 
 
-##How to Contribute
+## How to Contribute
 
 ## Route A: do everything in the browser 
 
